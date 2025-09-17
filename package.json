@@ -1,0 +1,11 @@
+{
+  "name": "dialogflow-webhook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^7.0.0"
+  }
+}
